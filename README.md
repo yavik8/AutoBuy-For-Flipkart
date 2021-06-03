@@ -13,4 +13,4 @@ Steps to run this script:
 6. Set path of  chromedriver in config.ini file.
 7. Enter your email and password in config.ini file.
 8. Enter flipkart product URL in config.ini file.
-7. Run `python app.py`
+7. Run `python FlipkartAutobuy.py`
